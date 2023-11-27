@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: ipverifierfm
+Version: 0.0.2
+Summary: IP Verifier
+Home-page: 
+Author: fredMelchior
+Author-email: frederico.melchior@gmail.com
+Requires-Python: >=3.8
+Requires-Dist: json>=3.6.0
+Requires-Dist: re>=2022.10.31
+Requires-Dist: urllib>=3.2.0
+
+# IP Verifier Package
+
+**Simple Local IP verifier Python package.**
+Used for het details by your local IP.
+DO NOT SHARE PERSONAL INFORMATION ABOUT YOUR IP ONLINE
+
+## Installation
+
+Use the package manager `pip` to install IP Verifier:
+
+`pip install ipverifierfm`
+
+## Usage
+
+_from_ ipverifierfm _import_ ip_verifier
+
+ip_verifier()
+
+### Author
+Fred Melchior
